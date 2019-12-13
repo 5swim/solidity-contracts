@@ -1,0 +1,24 @@
+{
+  "name": "solidity-contracts",
+  "version": "1.0.0",
+  "description": "Useful solidity contracts... feel free to use and modify and play.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/5swim/solidity-contracts.git",
+  "keywords": [],
+  "author": "brucedonovan <bruce@5swim.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5swim/solidity-contracts/issues"
+  },
+  "homepage": "https://github.com/5swim/solidity-contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "openzeppelin-solidity": "^2.4.0"
+  }
+}

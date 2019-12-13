@@ -7,7 +7,6 @@ contract Signable is Ownable {
   mapping (address=>sigState) private sigs;
   address[] requestedSignatures;
 
-  /// @todo add blacklisting feature
   /// @dev caller address signs the score, only if they are requested.
   function sign() public {
     require(
