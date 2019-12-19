@@ -1,4 +1,3 @@
-
 # endorsable
 
 Endorsable is a simple contract that facillitates post commit endorsement of a contract.

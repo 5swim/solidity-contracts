@@ -1,6 +1,6 @@
-const Signable = artifacts.require("Signable");
+const Signable = artifacts.require("Endorsable");
 
-contract("Signable", accounts => {
+contract("Endorsable", accounts => {
     it("Test something random", () =>
     Signable.deployed()
       .then(instance => instance.getBalance.call(accounts[0]))
