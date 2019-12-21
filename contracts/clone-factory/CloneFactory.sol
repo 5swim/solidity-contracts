@@ -3,6 +3,9 @@ pragma solidity ^0.6.0;
 /*
 The MIT License (MIT)
 Copyright (c) 2018 Murray Software, LLC.
+
+Minor modification by 5Swim Ltd., 2019
+
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
